@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335664149175",
+    "project_id": "shop-aa4f8",
+    "storage_bucket": "shop-aa4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335664149175:android:d09b7fa2a5ff4ce814d332",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.a_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335664149175-f6gcqhito8pqt7jff9mt556fbst4nm01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHb1__SpkGFY4IWE9mSs2cMD5R4Td7JwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335664149175-f6gcqhito8pqt7jff9mt556fbst4nm01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
